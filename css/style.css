@@ -1,0 +1,38 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    background-image: url(../img/1302-14981.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    font-family: "Bullpen 3D","Arial", sans-serif;
+}
+li {
+    list-style: none;
+    font-size: 24px;
+    color: blue;
+    padding-bottom: 5px;
+    text-align: center;
+    padding-right: 550px;
+}
+div {
+ display: block;
+ width: 70%;
+}
+button {
+    width: 400px;
+    height: 30px;
+    margin: 0 0 10px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #2052ad;
+    color: #fff;
+    box-sizing: border-box;
+    border: 2px solid #2052ad;
+}
+button:hover {
+    background-color:blue;
+    border: 2px solid #000;
+}
+.last-button {
+    margin-left: 200px;
+}
